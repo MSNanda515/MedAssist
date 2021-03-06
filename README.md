@@ -1,7 +1,7 @@
 # MED-ASSIST
 
-<!-- ![](./assets/demo/logo.jpg) -->
-<img alt = "logo" src = "./assets/demo/logo.jpg" style="height:200px; width:300px; margin-left:auto; margin-right:auto; display:block">  
+![](./assets/demo/logo.jpg)
+<img alt = "logo" src = "assets/demo/logo.jpg" style="height:200px; width:300px; margin-left:auto; margin-right:auto; display:block">  
 
 
 This application was developed using flutter by the following people:
