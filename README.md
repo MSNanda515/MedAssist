@@ -1,9 +1,5 @@
 # MED-ASSIST
 
-![](./assets/demo/logo.jpg)
-<img alt = "logo" src = "assets/demo/logo.jpg" style="height:200px; width:300px; margin-left:auto; margin-right:auto; display:block">  
-
-
 This application was developed using flutter by the following people:
 - Vardan Saini
 - Meharpreet Singh Nanda
@@ -50,4 +46,9 @@ We believe this application has a lot of potential. We further want to build a p
 - Send reminders to the user in the form of text, audio, and flashing light considering that problems like impaired vision and hearing problems are common in aged people.
 - Save the time of volunteers by notifying all receivers of an alert of one volunteer responding to the situation.
 
-### BUILT WITH
+### FEATURES
+<img alt = "Flutter" src = "https://img.shields.io/badge/Flutter-57585D?style=for-the-badge&logo=flutter"> <img alt = "Android" src = "https://img.shields.io/badge/android-57585D?style=for-the-badge&logo=android"> <img alt = "ios" src = "https://img.shields.io/badge/ios-57585D?style=for-the-badge&logo=ios"> <img alt = "Android-Studio" src = "https://img.shields.io/badge/android%20studio-57585D?style=for-the-badge&logo=android%20studio">  <img alt = "Dart" src = "https://img.shields.io/badge/dart-57585D?style=for-the-badge&logo=dart"> <img alt = "firebase" src = "https://img.shields.io/badge/firebase-57585D?style=for-the-badge&logo=firebase"> <img alt = "google cloud" src = "https://img.shields.io/badge/google%20cloud-57585D?style=for-the-badge&logo=google%20cloud">
+
+
+---
+[DEVPOST](https://devpost.com/software/medassist-uo9avc)
